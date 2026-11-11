@@ -49,9 +49,7 @@ Determining a fair market price for pre-owned cars is often challenging due to s
 
 Add custom Gradio UI for vehicle price prediction.
 
-##**Commit message:**
-
-`docs: add vehicle price estimation project analysis and improvement plan`
+##`docs: add vehicle price estimation project analysis and improvement plan`
 
 **Description:**
 
