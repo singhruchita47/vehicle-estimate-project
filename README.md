@@ -45,3 +45,20 @@ Determining a fair market price for pre-owned cars is often challenging due to s
 1. **Exploratory Data Analysis (EDA):** Generated correlation heatmaps and feature depreciation curves to study value drops over vehicle age.
 2. **Preprocessing:** Handled missing data, applied One-Hot Encoding, and scaled continuous attributes.
 3. **Model Evaluation:** Analyzed models using Mean Absolute Error (MAE), Mean Squared Error (MSE), and $R^2$ Score.
+
+
+Add custom Gradio UI for vehicle price prediction.
+
+##**Commit message:**
+
+`docs: add vehicle price estimation project analysis and improvement plan`
+
+**Description:**
+
+- Reviewed existing Google Colab ML workflow.
+- Analyzed original and cleaned vehicle datasets.
+- Compared Linear Regression, Decision Tree, and Random Forest results.
+- Identified areas for model accuracy improvement.
+- Documented preprocessing and feature encoding concerns.
+- Planned UI improvements and market insights dashboard.
+- Outlined next steps for project development.
