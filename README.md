@@ -41,4 +41,7 @@ Determining a fair market price for pre-owned cars is often challenging due to s
 
 ---
 
-## 📈 Machine Learning Workflow
+## 📈 Machine Learning Workflow 
+1. **Exploratory Data Analysis (EDA):** Generated correlation heatmaps and feature depreciation curves to study value drops over vehicle age.
+2. **Preprocessing:** Handled missing data, applied One-Hot Encoding, and scaled continuous attributes.
+3. **Model Evaluation:** Analyzed models using Mean Absolute Error (MAE), Mean Squared Error (MSE), and $R^2$ Score.
